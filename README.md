@@ -1,0 +1,1 @@
+This repo is for educational purposes: specifically, learning machine learning frameworks following the University of Toronto's APS360 curriculum.
